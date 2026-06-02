@@ -42,7 +42,3 @@ There are no answer files, tests, or rubrics in this repository.
 ## Suggested order
 
 Steps `01` through `10` build on each other. You can jump between steps in LearnPack, but later steps assume you already modeled earlier concepts.
-
-## Related projects
-
-After this practice, you can continue with the full [data modeling and class diagrams](https://github.com/4GeeksAcademy/data-modeling-and-class-diagrams) project (PNG deliverables).

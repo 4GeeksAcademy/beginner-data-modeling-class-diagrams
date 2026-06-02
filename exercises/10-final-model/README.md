@@ -64,7 +64,6 @@ classDiagram
 ## What to do next
 
 - Export a PNG from diagram.4geeks.com for your portfolio if you want.
-- Continue with the [data modeling and class diagrams](https://github.com/4GeeksAcademy/data-modeling-and-class-diagrams) project for full deliverables.
 
 ## Discussion questions
 

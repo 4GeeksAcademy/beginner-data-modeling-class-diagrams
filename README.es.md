@@ -42,7 +42,3 @@ No hay archivos de respuesta, tests ni rubricas en este repositorio.
 ## Orden sugerido
 
 Los pasos `01` a `10` se apoyan entre si. Puedes saltar pasos en LearnPack, pero los pasos posteriores asumen que ya modelaste los conceptos anteriores.
-
-## Proyectos relacionados
-
-Despues de esta practica puedes continuar con el proyecto completo [data modeling and class diagrams](https://github.com/4GeeksAcademy/data-modeling-and-class-diagrams) (entrega de PNG).
