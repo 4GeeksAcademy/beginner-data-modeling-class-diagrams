@@ -34,5 +34,8 @@
   "delivery": {
     "formats": ["no_delivery"]
   },
-  "translations": ["es", "en"]
+  "translations": ["es", "en"],
+  "telemetry": {
+        "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=3699"
+    },
 }
