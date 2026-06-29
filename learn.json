@@ -19,17 +19,17 @@
         "data-modeling",
         "diagram-4geeks-com"
     ],
-    "projectType": "tutorial",
+    "projectType": "exercise",
     "editor": {
         "agent": "vscode"
     },
-    "grading": "incremental",
-    "localhostOnly": false,
     "delivery": {
         "instructions": "",
         "formats": [
             "no_delivery"
         ],
         "regex": ""
-    }
+    },
+    "grading": "no-grading",
+    "localhostOnly": false
 }
