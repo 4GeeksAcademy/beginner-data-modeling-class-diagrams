@@ -30,6 +30,6 @@
         ],
         "regex": ""
     },
-    "grading": "no-grading",
+    "grading": "isolated",
     "localhostOnly": false
 }
