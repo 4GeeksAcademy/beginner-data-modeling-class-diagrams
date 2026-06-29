@@ -1,12 +1,12 @@
 {
-    "slug": "beginner-data-modeling-class-diagrams-es",
+    "slug": "beginner-data-modeling-class-diagrams",
     "title": {
-        "es": "Modelado de Datos para Principiantes con Diagramas de Clases",
-        "us": "Beginner Data Modeling with Class Diagrams"
+        "us": "Beginner Data Modeling with Class Diagrams",
+        "es": "Modelado de Datos para Principiantes con Diagramas de Clases"
     },
     "description": {
-        "es": "Diez pasos guiados para practicar diagramas de clases UML de una biblioteca digital con diagram.4geeks.com. Sin autoevaluacion: compara tu modelo final con la referencia del paso 10.",
-        "us": "Ten guided steps to practice UML class diagrams for a digital library using diagram.4geeks.com. No auto-grading\u2014compare your final model with the reference in step 10."
+        "us": "Ten guided steps to practice UML class diagrams for a digital library using diagram.4geeks.com. No auto-grading\u2014compare your final model with the reference in step 10.",
+        "es": "Diez pasos guiados para practicar diagramas de clases UML de una biblioteca digital con diagram.4geeks.com. Sin autoevaluacion: compara tu modelo final con la referencia del paso 10."
     },
     "preview": "https://github.com/4GeeksAcademy/beginner-data-modeling-class-diagrams/blob/main/preview.png?raw=true",
     "difficulty": "BEGINNER",
@@ -19,22 +19,17 @@
         "data-modeling",
         "diagram-4geeks-com"
     ],
-    "projectType": "exercise",
+    "projectType": "tutorial",
     "editor": {
         "agent": "vscode"
     },
+    "grading": "incremental",
+    "localhostOnly": false,
     "delivery": {
         "instructions": "",
         "formats": [
             "no_delivery"
         ],
         "regex": ""
-    },
-    "grading": "no-grading",
-    "localhostOnly": false,
-    ,
-    "translations": ["es", "en"],
-    "telemetry": {
-        "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=3699"
-     }
+    }
 }
