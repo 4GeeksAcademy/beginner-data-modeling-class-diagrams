@@ -11,6 +11,7 @@
     "preview": "https://github.com/4GeeksAcademy/beginner-data-modeling-class-diagrams/blob/main/preview.png?raw=true",
     "difficulty": "BEGINNER",
     "duration": 2,
+    "template_url": "https://github.com/4GeeksAcademy/beginner-data-modeling-class-diagrams",
     "gitpod": true,
     "technologies": [
         "uml",
